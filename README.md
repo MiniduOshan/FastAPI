@@ -24,60 +24,6 @@ A beginner-friendly journey to learning **FastAPI**, a modern Python framework f
 - **Testing:** Pytest
 - **Version Control:** Git and GitHub
 
-## 📚 Learning Roadmap
-
-### Phase 1: Python and API Fundamentals
-- [ ] Python functions, modules, and packages
-- [ ] Virtual environments and pip
-- [ ] HTTP methods: GET, POST, PUT, PATCH, DELETE
-- [ ] HTTP status codes
-- [ ] JSON and REST API concepts
-
-### Phase 2: FastAPI Basics
-- [ ] Install FastAPI and Uvicorn
-- [ ] Create the first FastAPI application
-- [ ] Define API routes and path operations
-- [ ] Handle path and query parameters
-- [ ] Handle request bodies
-- [ ] Return JSON responses
-- [ ] Understand HTTP status codes
-- [ ] Explore automatic API documentation
-
-### Phase 3: Data Validation
-- [ ] Understand Pydantic models
-- [ ] Validate request data
-- [ ] Define optional and required fields
-- [ ] Use response models
-- [ ] Handle validation errors
-
-### Phase 4: Database Integration
-- [ ] Understand database fundamentals
-- [ ] Connect FastAPI to SQLite
-- [ ] Learn SQLAlchemy basics
-- [ ] Perform CRUD operations
-- [ ] Implement database relationships
-- [ ] Connect to PostgreSQL
-
-### Phase 5: Advanced FastAPI
-- [ ] Dependency injection
-- [ ] Error handling and custom exceptions
-- [ ] Middleware
-- [ ] Authentication and authorization
-- [ ] OAuth2 and JWT
-- [ ] Environment variables and configuration
-- [ ] Asynchronous programming with `async` and `await`
-- [ ] Background tasks
-- [ ] File uploads
-
-### Phase 6: Testing and Deployment
-- [ ] Write API tests using Pytest
-- [ ] Test endpoints with the interactive API documentation
-- [ ] Learn about CORS
-- [ ] Use environment variables for secrets
-- [ ] Dockerize the application
-- [ ] Deploy an API to a server or cloud platform
-- [ ] Set up logging and basic monitoring
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -147,25 +93,6 @@ Open these URLs in your browser:
 - **API:** http://127.0.0.1:8000/
 - **Interactive API documentation:** http://127.0.0.1:8000/docs
 - **Alternative API documentation:** http://127.0.0.1:8000/redoc
-
-## 📁 Suggested Repository Structure
-
-```text
-fastapi-learning/
-├── 01-python-and-api-basics/
-├── 02-first-fastapi-app/
-├── 03-path-and-query-parameters/
-├── 04-request-and-response/
-├── 05-pydantic-validation/
-├── 06-crud-operations/
-├── 07-database-integration/
-├── 08-authentication/
-├── 09-testing/
-├── 10-deployment/
-├── projects/
-├── requirements.txt
-└── README.md
-```
 
 ## 🧪 Mini Projects
 
